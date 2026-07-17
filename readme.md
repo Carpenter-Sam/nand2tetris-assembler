@@ -1,3 +1,4 @@
+This project has moved to: Carpenter-Sam/nand2tetris
 # Nand2Tetris Assembler
 
 This is an assembler written in Rust for Week 6 of the Nand2Tetris course.
